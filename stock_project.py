@@ -4,7 +4,7 @@ from openpyxl.utils import get_column_letter
 import FinanceDataReader as fdr
 from tqdm import tqdm
 
-test = np.load('test_npy.npy')
+test = np.load('meta_data.npy')
 dict = {}
 
 # ------------------------------- Common function ---------------------------------------------------
