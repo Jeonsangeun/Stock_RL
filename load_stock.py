@@ -2,7 +2,7 @@ import numpy as np
 import openpyxl as excel
 import FinanceDataReader as fdr
 
-test = np.load('test_npy.npy')
+test = np.load('meta_data.npy')
 dict = {}
 
 Today = 20230315 # insert Today YYYYMMDD
