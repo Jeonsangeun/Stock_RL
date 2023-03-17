@@ -48,4 +48,4 @@ while not max_count <= 0:
 
 print('filtering_num : ', real_num)
 
-np.save('test_npy', np.array(json_total))
+np.save('meta_data', np.array(json_total))
