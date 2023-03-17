@@ -11,10 +11,12 @@
 
 국내 배당주를 분석할 수 있는 코드를 짜보자
 
+```c
 import numpy as np
 import openpyxl as excel
 import FinanceDataReader as fdr
 from tqdm import tqdm
+```
 
 ## Reinforcement Learning
 
