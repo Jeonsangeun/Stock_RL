@@ -1,7 +1,7 @@
 import numpy as np
 import openpyxl as excel
 
-test = np.load('test_npy.npy')
+test = np.load('meta_data.npy')
 
 dict = {}
 np_set = []
