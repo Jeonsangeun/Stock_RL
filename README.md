@@ -18,6 +18,8 @@ import FinanceDataReader as fdr
 from tqdm import tqdm
 ```
 
+배당을 주지 않는 기업은 취급을 하지 않는다.
+
 ## Reinforcement Learning
 
 주식은 잘하는법이 없다고 했다. 하지만 옛날부터 주식을 해온사람과 이제 주식을 시작하는 주린이 사이에는 분명히 짬빠가 있을것이다.
