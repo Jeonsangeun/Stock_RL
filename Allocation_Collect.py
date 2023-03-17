@@ -3,8 +3,8 @@ import json
 import numpy as np
 
 Today = 20230313
-url = 'http://apis.data.go.kr/1160100/service/GetStocDiviInfoService/getDiviInfo'
-Decoding_key = 'BQmxl6GE14imlHZHdA5c5Ho2h1J0tj/AcdNx5bFXmFWpguE4LoBN66xRb9naWkmoehRm7Pvu04mCXMu1FeW9bA=='
+url = ''
+Decoding_key = ''
 
 init_params = {'serviceKey' : Decoding_key,
           'pageNo' : '1',
