@@ -25,3 +25,4 @@ from tqdm import tqdm
 주식은 잘하는법이 없다고 했다. 하지만 옛날부터 주식을 해온사람과 이제 주식을 시작하는 주린이 사이에는 분명히 짬빠가 있을것이다.
 옛날부터 주식을 하는 사람을 모델로 구현할 수 있다면 주린이라도 매수 매도에 도움을 주지 않을까?
 
+<p align="center"><img src="./images/optimal_policy.png" width="40%" height="40%"/></p>
