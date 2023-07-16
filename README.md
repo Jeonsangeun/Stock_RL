@@ -83,3 +83,15 @@ Reward를 정하는 과정이 가장 신중해야햤다. 학습에서 가장 중
 | 학습주기 | 20 episodes  |
 | 학습  | 128 steps  |
 
+학습 대상
+KOSDAQ : 삼성전자, SK하이닉스
+NASDAQ : MSFT
+
+Train date : 2008.01.01 ~ 2022.12.31
+Test date : 2023.01.01 ~ Today
+
+
+
+
+
+
