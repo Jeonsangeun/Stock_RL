@@ -73,3 +73,12 @@ Reward를 정하는 과정이 가장 신중해야햤다. 학습에서 가장 중
 <p align="center"><img src="./images/Reward_rule.png" width="100%" height="80%"/></p>
 <p align="center"><img src="./images/Reward_rule(weight).png" width="100%" height="80%"/></p>
 
+### 시뮬레이션 
+| 파라미터  |  |
+| ------------- | ------------- |
+| 𝑛 (학습에 반영할 거래 일) | 400 |
+| 𝐷 (최대  대기일, action) | 100 |
+| 𝑤 | 1-  |
+| 최대 episode | 50,000  |
+| 학습주기 | 20 episodes  |
+| 학습  | 128 steps  |
