@@ -40,6 +40,8 @@ Train 기간과 Test 기간을 분리하여 결과값을 도출 할 것이다.
 
 ### System Model
 
+<p align="center"><img src="./images/System_model.png" width="40%" height="40%"/></p>
+
 ```c
 𝓢 : (𝑏_𝑡, 𝚳_(𝒕−𝒏:𝒕))
 𝓐 : 𝑎 (d 까지의 정수)
