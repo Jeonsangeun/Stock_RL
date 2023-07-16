@@ -70,6 +70,6 @@ Train 기간과 Test 기간을 분리하여 결과값을 도출 할 것이다.
 ```
 
 Reward를 정하는 과정이 가장 신중해야햤다. 학습에서 가장 중요한 부분이기 때문이다.
-<p align="center"><img src="./images/Reward_rule.png" width="100%" height="80%"/></p>
+<p align="center"><img src="./images/Reward_rule(v).png" width="100%" height="80%"/></p>
 
 
